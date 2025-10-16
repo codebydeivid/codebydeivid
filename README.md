@@ -9,7 +9,6 @@ Olá eu sou o Deivid, um programador curioso e autodidata que transforma qualque
 <div align="center">
   
   [![Deivid GitHub stats](https://github-readme-stats.vercel.app/api?username=codebydeivid&theme=algolia&show_icons=true)](https://github.com/codebydeivid)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deividhenrique&theme=algolia&layout=compact)
 
 </div>
 
